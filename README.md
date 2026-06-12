@@ -18,4 +18,4 @@ DESCRIPTION :-
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
-[Dashboard Preview](https://github.com/ritikraj3001/Super_Store_Sales_Analysis_Dashboard/blob/main/super%20Store%20Sales%20Dashboard%20BI.pdf)
+Example: ![Dashboard Preview](https://github.com/ritikraj3001/Super_Store_Sales_Analysis_Dashboard/blob/main/super%20Store%20Sales%20Dashboard%20BI.pdf)
