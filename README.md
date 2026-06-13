@@ -3,9 +3,13 @@
 A concise, descriptive name for the dashboard.
 Store Analytics: super store insight dashboard
 
+---
+
 ### 2.	Short Description / Purpose
 The success of a business by utilizing data analysis technique, specifically focusing on the
 time series analysis to provide valuable insights.
+
+---
 
 ### 3.	Tech Stack
 List the key technologies used to build the dashboard.
@@ -18,9 +22,13 @@ The dashboard was built using the following tools and technologies:<br>
 •	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
+---
+
 ### 4.	Data Source
 More info on where the data comes from and how it’s structured
 Example: I get and downloaded data from the one of the youtube chaneel 
+
+---
 
 ### 5.	Features / Highlights
 The best dashboard explanation format. 
@@ -61,6 +69,8 @@ drive strategic decision-making and support the supermarkets goals for growth, e
    LEARNING :-
    Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, acuurate
    interactive dashboard creation, driving business success.
+
+   ---
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
