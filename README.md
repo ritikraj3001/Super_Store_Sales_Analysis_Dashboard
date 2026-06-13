@@ -26,7 +26,7 @@ The dashboard was built using the following tools and technologies:<br>
 
 ### 4.	Data Source
 More info on where the data comes from and how it’s structured
-Example: I get and downloaded data from the one of the youtube chaneel 
+Example: I get and downloaded data from the one of the youtube channel 
 
 ---
 
