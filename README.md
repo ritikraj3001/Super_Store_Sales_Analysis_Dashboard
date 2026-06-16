@@ -74,4 +74,4 @@ drive strategic decision-making and support the supermarkets goals for growth, e
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/ritikraj3001/Super_Store_Sales_Analysis_Dashboard/blob/main/super%20Store%20Sales%20Dashboard%20BI.pdf)
+![Dashboard Preview](https://github.com/ritikraj3001/Super_Store_Sales_Analysis_Dashboard/blob/main/Super%20store%20Sales%20Dashboard.png)
