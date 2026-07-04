@@ -1,77 +1,155 @@
-# Super-Store-Sales-Dashboard-by-using-Power-BI-
-### 1.	Project Title / Headline
-A concise, descriptive name for the dashboard.
-Store Analytics: super store insight dashboard
+# 📊 Super Store Sales Dashboard
+
+An interactive **Power BI Sales Dashboard** designed to analyze sales performance, profitability, customer segments, shipping trends, and regional performance across the United States.
 
 ---
 
-### 2.	Short Description / Purpose
-The success of a business by utilizing data analysis technique, specifically focusing on the
-time series analysis to provide valuable insights.
+## 📌 Project Overview
+
+This project provides a comprehensive view of a retail superstore's business performance using interactive visualizations and KPIs. The dashboard enables stakeholders to monitor sales trends, identify profitable regions, optimize shipping strategies, and understand customer purchasing behavior.
 
 ---
 
-### 3.	Tech Stack
-List the key technologies used to build the dashboard.
+## 🎯 Business Objectives
 
-Example:
-The dashboard was built using the following tools and technologies:<br>
-•	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
-•	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
-•	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
-•	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
-•	📁 File Format – .pbix for development and .png for dashboard previews.
+- Track overall sales and profitability.
+- Analyze sales performance across regions and states.
+- Identify high-performing product categories and sub-categories.
+- Understand customer purchasing preferences.
+- Evaluate shipping efficiency and delivery methods.
+- Support data-driven business decisions.
 
 ---
 
-### 4.	Data Source
-More info on where the data comes from and how it’s structured
-Example: I get and downloaded data from the one of the youtube channel 
+## 🛠️ Tools & Technologies Used
+
+| Tool | Purpose |
+|------|---------|
+| Power BI | Dashboard Development |
+| Power Query | Data Cleaning & Transformation |
+| DAX | Measures and Calculations |
+| Excel/CSV | Data Source |
+| Bing Maps | Geographic Visualization |
 
 ---
 
-### 5.	Features / Highlights
-The best dashboard explanation format. 
-•	Business problem
-•	Goal of the dashboard
-•	Walk through of key visuals (briefly!)
-•	Business impact & Insights
+## 📈 Key Performance Indicators (KPIs)
 
-Example:
-•	Business Problem :-
-Acually for this project we have to firstly make a dashboard and then we have to cheack the proper trend and fine the revenue that how much a sales is generating 
-in a time of interval.
+| Metric | Value |
+|--------|-------|
+| Total Sales | **$1.6M** |
+| Total Profit | **$175K** |
+| Total Quantity Sold | **22K** |
+| Average Shipping Days | **4 Days** |
 
-Key questions such as:
-sales by regian
-different payment modes
-the profit we are making
+---
 
-•	Goal of the Dashboard
-To deliver an interactive visual tool that:
-find the total revenue and the profit
-to find the sales by category
-also the profit that we are geting by month
+## 📊 Dashboard Features
 
-•	Walkthrough of Key Visuals
+### 💳 Sales by Payment Mode
+Customer payment preferences:
 
-sales :- the sales that we are getting is 1.6 millions and its a big amount as a sales number.
-profit :- the profit the we are getting is 175000 that is only a profit.
+- COD: **43%**
+- Online Payments: **35%**
+- Cards: **22%**
 
-Dashboard Creation: Identify the KPIs, design an intuitive and visully appealing dashboard, add interactive
-visualizations and filtering capabilities to allow users to explore the data at various levels of granularity.
-Data Analysis: Provide valuable insight to business entities regarding the effectiveness of their sales strategies 
-through visualization and charts.
-Actionable Insights and Recommendations: End goal is to Share Valuable insights and actionable information that can
-drive strategic decision-making and support the supermarkets goals for growth, efficiency, and customer satisfaction.
+**Insight:** Cash on Delivery remains the preferred payment option among customers.
 
-•	Business Impact & Insights
-   LEARNING :-
-   Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, acuurate
-   interactive dashboard creation, driving business success.
+---
 
-   ---
+### 👥 Sales by Customer Segment
 
-### 6.	Screenshots / Demos
+| Segment | Contribution |
+|---------|-------------|
+| Consumer | **48%** |
+| Corporate | **33%** |
+| Home Office | **19%** |
+
+**Insight:** Consumer customers generate nearly half of the total sales.
+
+---
+
+### 🌎 Regional Sales Distribution
+
+| Region | Contribution |
+|--------|-------------|
+| West | **33%** |
+| East | **29%** |
+| Central | **22%** |
+| South | **16%** |
+
+**Insight:** The West region is the strongest revenue contributor.
+
+---
+
+### 📅 Monthly Sales Trend (2019 vs 2020)
+
+- Sales increased significantly during the final quarter.
+- 2020 outperformed 2019 across most months.
+- Strong growth was observed during November and December.
+
+**Business Impact:** Seasonal demand drives year-end sales growth.
+
+---
+
+### 💰 Monthly Profit Analysis
+
+- Profitability improved considerably during Q4.
+- October and December generated the highest profits.
+- Profit trends closely followed sales growth patterns.
+
+---
+
+### 🚚 Sales by Ship Mode
+
+| Ship Mode | Sales |
+|-----------|------|
+| Standard Class | **$0.33M** |
+| Second Class | **$0.11M** |
+| First Class | **$0.08M** |
+| Same Day | **$0.03M** |
+
+**Insight:** Standard Class shipping dominates customer preference.
+
+---
+
+### 🛍️ Sales by Category
+
+| Category | Sales |
+|----------|------|
+| Furniture | **$0.45M** |
+| Technology | **$0.47M** |
+| Office Supplies | **$0.64M** |
+
+**Insight:** Office Supplies contribute the highest revenue among all categories.
+
+---
+
+### 📦 Top Performing Sub-Categories
+
+| Sub-Category | Sales |
+|-------------|------|
+| Phones | **$0.20M** |
+| Chairs | **$0.18M** |
+| Binders | **$0.17M** |
+| Storage | **$0.15M** |
+
+**Insight:** Phones are the best-selling sub-category in the business.
+
+---
+
+### 🗺️ Geographic Analysis
+
+The dashboard includes an interactive map showing:
+
+- State-wise sales distribution.
+- Profit concentration by location.
+- Regional performance comparison.
+
+This helps identify high-value markets and expansion opportunities.
+
+---
+
+###  Screenshots / Demos
 Show what the dashboard looks like.
 ![Dashboard Preview](https://github.com/ritikraj3001/Super_Store_Sales_Analysis_Dashboard/blob/main/Super%20store%20Sales%20Dashboard.png)
